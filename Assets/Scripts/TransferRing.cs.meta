@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2543701f1f4f5cd4d925d0f15d89010a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonPanel1: {instanceID: 0}
+  - buttonPanel2: {instanceID: 0}
+  - errorMessage: {instanceID: 0}
+  - StackA: {instanceID: 0}
+  - StackB: {fileID: 3840400072841962838, guid: 1da8141ccfc63154999167c1c17c5127, type: 3}
+  - StackC: {fileID: 1616695462546036666, guid: f90040cccb2e8aa4a90500a330141e00, type: 3}
+  - startStack: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
